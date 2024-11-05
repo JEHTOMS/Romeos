@@ -1,0 +1,30 @@
+html{font-size: 24px;
+height: 100%;}
+*{margin: 0;}
+body{
+    background-color: black;
+    color: white;
+    height: 100%;
+    align-content: center;
+}
+h1{
+    font-family: 'Mona-Sans-BlackNarrow', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3rem;
+    margin-bottom: 24px;
+}
+.paragraph{
+    font-family: Helvetica, sans-serif;
+    text-align:center;
+}
+.image{
+    border: 2px solid white;
+    margin-bottom: 36px;
+    align-content: center;
+}
+.motivation-wrapper{
+    padding: 40px;
+    max-width: 600px;
+    margin: auto;
+}
